@@ -1,7 +1,7 @@
 emune
 =====
 
-A basic JavaScript [key mirror]() / enum utility.
+A basic JavaScript [key mirror](https://sdgluck.github.io/2015/08/12/key-mirrors/) / enum utility.
 
 > [`mune`](https://www.npmjs.com/package/mune) was taken. Kudos!
 
