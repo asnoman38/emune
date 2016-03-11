@@ -9,7 +9,7 @@ A basic JavaScript [key mirror](https://sdgluck.github.io/2015/08/12/key-mirrors
 ## Usage
 
 ```bash
-$ npm install mune
+$ npm install emune
 ```
 
 ```js
